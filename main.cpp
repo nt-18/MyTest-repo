@@ -3,7 +3,9 @@
 
 int main()
 {
-	
+	int c,d;
+                c= multi(2,3);
+                d=divide(4,2);
 	system("pause");
 	return 0;
 }
